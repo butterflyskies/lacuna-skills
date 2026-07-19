@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lina Format"
+  short_description: "Action-first accessible messages for 🦋"
+  default_prompt: "Use $lina-format to rewrite this message for fast, low-fatigue scanning."
