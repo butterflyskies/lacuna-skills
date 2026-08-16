@@ -1,0 +1,4 @@
+interface:
+  display_name: "Contextual Conversation Judgment"
+  short_description: "Classify feedback and preserve provenance"
+  default_prompt: "Use $contextual-conversation-judgment to interpret this conversational contribution before deciding whether and how to respond."
