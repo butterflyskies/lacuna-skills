@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discover Contradictionary Candidates"
+  short_description: "Mine repeated writing moves for careful review"
+  default_prompt: "Use $discover-contradictionary-candidates to mine this outbound corpus for review-only style and judgment candidates."
